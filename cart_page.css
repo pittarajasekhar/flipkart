@@ -1,0 +1,97 @@
+nav{
+    background-color: rgb(107, 107, 236);
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    padding:1px 1px;
+   
+    width: 1500px;
+   margin-bottom: 20px;
+
+    
+
+
+    }
+    .logo{
+    color: #fff;
+    text-decoration: none;
+    }
+    .pluse-color{
+      color: yellow;
+    }
+    .search{
+      background-color: #fff;
+      padding: 8px;
+      width: 700px;
+      height: 20px;
+      margin: 0px 15px;
+      display: flex;
+      justify-content: space-between;
+      box-shadow: -7px -7px 10px black;
+    
+    }
+    .search input{
+      width: 380px;
+      border: none;
+      outline: none;
+    }
+    .para{
+        color: #fff;
+    }
+    .flipcart{
+        border: 2px solid #f9f6f6;
+           background-color: hsl(0, 0%, 100%);
+        margin-right: 700px;
+        display: flex;
+        justify-content: start;
+        padding: 9px;
+        box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    }
+    .flipcart{
+        border: 2px solid #f9f6f6;
+        background-color: hsl(0, 0%, 100%);
+        margin-right: 700px;
+        display: flex;
+        justify-content: space-between;
+        padding: 9px;
+        box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    }
+    .btn{
+        padding: 0px;
+        background-color: #fff;
+        color: rgb(21, 117, 226);
+        border: none;
+    }
+    img {
+            float: left;
+            margin-right: 20px;
+    }
+    .head{
+        color: rgb(236, 114, 27);
+    }
+    .cart{
+        border: 2px solid #f9f6f6;
+        background-color: hsl(0, 0%, 100%);
+        margin-right: 700px;
+        box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    }
+    .raj{
+       width: 250px;
+        padding: 1rem;
+        color: #fff;
+        background-color: rgb(241, 69, 6);
+        border: 1px solid none;
+       margin-left: 450px;
+    }
+    .footer{
+        padding: 2rem;
+       bottom: 1px solid #f9f6f6;
+       background-color: hsl(0, 0%, 100%);
+       box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+       margin-right: 700px;
+    
+    }
+    .billamount{
+        display: grid;
+        grid-template-columns: 1;
+    }

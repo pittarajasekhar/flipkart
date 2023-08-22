@@ -1,0 +1,62 @@
+.catagorie{
+    border: 2px solid #f9f6f6;
+    background-color: hsl(0, 0%, 100%);
+    margin-right: 1200px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+   
+}
+.value{
+    margin-left: 70px;
+}
+
+.flip{
+    margin-left: 5px;
+}
+.para{
+    color: blue;
+}
+.line{
+    color: rgb(174, 174, 174);
+}
+.para1{
+    color: blue;
+}
+.para2{
+    color: rgb(152, 152, 152);
+}
+.home{
+    border: 2px solid #f9f6f6;
+    background-color: hsl(0, 0%, 100%);
+    
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2); 
+}
+.btn{
+    padding:10px;
+    width: 70px;
+    background-color: rgb(57, 112, 2);
+    border: none;
+    color: #fff;
+}
+.pan{
+    color: rgb(181, 181, 181);
+}
+.bank{
+    color: rgb(120, 206, 35);
+}
+.trimeers{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 9px;
+   
+}
+.topoffers{
+   
+    align-items: center;
+}
+.foter{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(22, 21, 21) ;
+    color: #fff;
+    padding: 70px;
+  }
